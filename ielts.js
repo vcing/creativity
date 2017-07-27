@@ -11,3 +11,9 @@ export const listening = {
 
     'Who teach you to be polite': `Well, like most people. My parents told me to be polite when I was a child. They told me to say "thank you" when I get help from other people.And when somebody gives me something, I should take it with my both hand to show my respect and so on. I think it is one of the great Chinese traditional cultures.`
 }
+
+export const writing = {
+    'Advertising': {
+        
+    }
+}
