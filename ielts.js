@@ -33,7 +33,21 @@ export const listening = {
 
     'What\'s is your favorite type of shoes?': `Well, my favorite type of shoes is the sandal. In hot summer only sandal could make my feet feel cool. And not like other shoes sandal is really easy to putting on or putting off. It's really convenient.`,
 
-    'How often do you wear a watch?': `I never wear a watch. Since I'm a programmer watch may hinder my coding. And if I need to know the time. I can check my mobile phone. So I don't find any reason to wear a watch.`
+    'How often do you wear a watch?': `I never wear a watch. Since I'm a programmer watch may hinder my coding. In addition, if I need to know the time. I can check my mobile phone. So I don't find any reason to wear a watch.`,
+
+    'Do people still wear watches in your country?': `Basically, few people wears watches around me. I suppose that's because they all have mobile phone, which can tells time.`,
+
+    'What was the strangest dream you have had?': `Once I dreamed about I went to a restaurant, but all their customers are feigners. The weird thing was that they are all speaking Chinese. And the attendant secretly told me that I have English accent when I spoke Chinese. And then I wake up. That was so weird.`,
+
+    'What do you usually dream about':`Well. I always dream about things I'm thinking in the day time. For example. Recent days, I always dream of taking apart in ielts examination. Sometime is good result sometimes is a bad result.`,
+
+    'What kind of things do you have to bring when you go out?': `I like to bring my laptop when I go out. Because I'm a programmer, so sometimes I have to handle some emergent event. Such as our website crashed or our server is attack.`,
+
+    'How do you remind yourself?':`I have a habit that I will check my pocket before I leave. So that will ensure everything I need already in my pocket before I lock the door.`,
+
+    'Did you ever forget to bring something?': `Yes, I always forget bring something such as my keys, my mobile phone.But I remember the most serious time is that I went to a holiday resort with my girlfriend. When I arrive there I just realize I forget to bring my ID card. So I have to go to the police office to prove my identity.`,
+
+    'Do you carry different things in the morning and in the evening?': `No. I don't think there are any necessary things I have to bring them in the morning or evening. Things in my pocket are always the same.`
 }
 
 export const writing = {
