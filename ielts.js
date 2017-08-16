@@ -47,7 +47,9 @@ export const listening = {
 
     'Did you ever forget to bring something?': `Yes, I always forget bring something such as my keys, my mobile phone.But I remember the most serious time is that I went to a holiday resort with my girlfriend. When I arrive there I just realize I forget to bring my ID card. So I have to go to the police office to prove my identity.`,
 
-    'Do you carry different things in the morning and in the evening?': `No. I don't think there are any necessary things I have to bring them in the morning or evening. Things in my pocket are always the same.`
+    'Do you carry different things in the morning and in the evening?': `No. I don't think there are any necessary things I have to bring them in the morning or evening. Things in my pocket are always the same.`,
+
+    'What\'s the most popular means of transportation in your hometown?': `To most popular means of transportation in my hometown is the subway. Recent years, the government of my hometown builds a lot of subway station and subway lines. So you can get everywhere by subway now in my hometown. It's really convenient and cheap. In addition, it also  could avoid traffic problem. So citizen of our hometown love to take subway when they need to get somewhere in the city`,
 }
 
 export const writing = {
