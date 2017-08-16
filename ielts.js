@@ -50,6 +50,24 @@ export const listening = {
     'Do you carry different things in the morning and in the evening?': `No. I don't think there are any necessary things I have to bring them in the morning or evening. Things in my pocket are always the same.`,
 
     'What\'s the most popular means of transportation in your hometown?': `To most popular means of transportation in my hometown is the subway. Recent years, the government of my hometown builds a lot of subway station and subway lines. So you can get everywhere by subway now in my hometown. It's really convenient and cheap. In addition, it also  could avoid traffic problem. So citizen of our hometown love to take subway when they need to get somewhere in the city`,
+    
+    'Who do you live with?': `I live with my girlfriend in a apartment. Even it is not a big or luxurious apartment. But it contains everything I need in my daily life. Most importantly, there is a subway station just near my apartment. It's very convenient when I need to go somewhere in the city.`,
+
+    'How long have you lived there?': `I have lived there about half year. But now, I'm preparing to find a new job. So I may move to somewhere close to my new company.`,
+
+    'What do you usually do in you flat?': `I often play the video game in my flat. Also sometimes I have to watch some soap series with my girlfriend. I always feel peaceful When I stay at home. So maybe this is the life I want.`,
+
+    'Do you plan to live there for a long time?': `No. Probably not. I plan to immigrate to Canada in next few year. Work and live in a totally different country is very exciting. Also, Canada is a very beautiful and peaceful country. I really love their environment and nature. So this city is only a small step for me.`,
+
+    'Please describe the room you live in?': `It is a common but cozy apartment which contains everything I need in my daily life like wash machine, television, cooker. In addition, there are a lot of pictures on the wall It's all about our daily life or some traveling resort we have gone before.`,
+
+    'What\'s your hometown?': `My hometown is named Wuhan which in the center of China. It famous for breakfast, So million tourist go to my hometown for that every year. For example, I can try seven totally different kinds of breakfast in one day.`,
+
+    'Is that a big city or small place?': `Well, It's a big city with some scenic spots.Also mordern facilities for entertainment are built up in downtown areas.So I can always find something interesting to do when I getting together with my friends.`,
+
+    'Where did you go to school?': `I went to school when I was 6 years old in my hometown. And the primary school just close to my home.So I always have a lot of time to play with my little friends. Because I needn't worry about the traffic congestion or waste time on the way.`,
+
+    'Tell me something about the school?': `My primary school is quite special. Because the school is just open for the child who's parent is working for China Navy department. So When I was a child I have some special opportunities to saw the navy ships or navy guns. It's a really unusual experience.So when I was that age, my dream is to be a Navy weapon expert.`,
 }
 
 export const writing = {
