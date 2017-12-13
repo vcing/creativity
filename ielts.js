@@ -49,9 +49,13 @@ export const listening = {
 
     'Do you carry different things in the morning and in the evening?': `No. I don't think there are any necessary things I have to bring them in the morning or evening. Things in my pocket are always the same.`,
 
-    'What\'s the most popular means of transportation in your hometown?': `In my hometown most people like take subway. Recent years, the government of my hometown builds a lot of subway station and subway lines. So you can get everywhere by subway now in my hometown. It's really convenient and cheap. In addition, it also  could avoid traffic problem. So citizen of our hometown love to take subway when they need to get somewhere in the city`,
+    'What\'s the most popular means of transportation in your hometown?': `To most popular means of transportation in my hometown is the subway. Recent years, the government of my hometown builds a lot of subway station and subway lines. So you can get everywhere by subway now in my hometown. It's really convenient and cheap. In addition, it also  could avoid traffic problem. So citizen of our hometown love to take subway when they need to get somewhere in the city`,
 
+    'Is there anything to be improved in your city?': `I think there are a lot of things need to be imporoved in my city. Especially traffic congestion. This is due to the growing number of people moving in from the nearby city. And also, the subway system is not complete yet, there are only 3 subway lines that are available for citizens to commuter around city.`,
+    
     'Who do you live with?': `I live with my girlfriend in a apartment. Even it is not a big or luxurious apartment. But it contains everything I need in my daily life. Most importantly, there is a subway station just near my apartment. It's very convenient when I need to go somewhere in the city.`,
+
+    'Do you prefer to live in an apartment or a house': `I prefer to live in an apartment. Since I just live with my girlfriend, An apartment is totally enough to our daily live. Also, It's very cosy and easy to clean. Even a house could bring us more space to play.But I don't think it's neccesary right now.`,
 
     'How long have you lived there?': `I have lived there about half year. But now, I'm preparing to find a new job. So I may move to somewhere close to my new company.`,
 
@@ -102,6 +106,10 @@ export const listening = {
     'Do you remember your friends in primary school? why?': `Yes, of course. I remember most of them. Because it's easier to make real friends when we are young and simple. we always help and support each other for no requite. So I still remember those cure guys.`,
 
     'What do you do with friends?': `Most times, I play video games with my friends. Since I don't live with them in the same city. So I can only meet them online and in the games. When we play the online game together, I truly feel like they are just beside me. That's really helpful when I feel lonely.`,
+    'Tell me something about the school?': `My primary school is quite special. Because the school is just open for the child who's parent is working for China Navy department. So When I was a child I have some special opportunities to saw the navy ships or navy guns. It's a really unusual experience.So when I was that age, my dream is to be a Navy weapon expert.`,
+
+    'Do you like learning a foreign language?': `Sure. I have been learning English all the time since i was in primary school and i just started learning spanish a couple of years ago. I feel that English learning is challenging and useful even though the grammatical knowledge are complex.`
+
 
 }
 
