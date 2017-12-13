@@ -1,13 +1,13 @@
 export const listening = {
     'What work do you do?': `I work. I have been working in a game company for three years as a technical director or in the other words Chief Programmer.I love coding because I think it's the most creative work nowadays. And also it has a promising future.`,
 
-    'Do you miss being a student?': `No, I'm totally not. I don't like to be a student since I was about 14.I have my own goal, but I can't go for it when I was a student. It was tough days. After my college life, I finally have a chance to chase my goal. Now, everything or knowledge I used in my work is studied by my self. So, I really don't like to be a student at school`,
+    'Do you miss being a student?': `No, I'm totally not. I don't like to be a student since I was about 14.I have my own goal, but I can't go for it when I was a student. After my college life, I finally have a chance to chase my goal. Now, everything I got or I used in my work is studied by my self. So, I really don't like to be a student at school`,
 
     'Is it very interesting?': `Yes, of course. Thousands of people visit our website and play our game every day. I get a lot of comments from our lovely player who trying to encourage us to keep create good game. I think it's my pleasure that my work could bring them happiness`,
 
-    'Do you prefer to study in the mornings or in the afternoons': `I prefer to study in the morning.Because in the morning, I just wake up and I have very a clear mind. Also in the morning, it is very quiet, I can focus on my study. So I think it's the best time for me to study efficiently`,
+    'Do you prefer to study in the mornings or in the afternoons': `I prefer to study in the morning.Because in the morning, I just wake up and I have a clear mind. Also in the morning, it is very quiet, I can focus on my study. So I think it's the best time for me to study efficiently`,
 
-    'Do you like your subject': `Yes, I like it. Create a game or website which could bring thousands of people happiness give me a sense of achievement. I love that feeling. It's very hot-blooded to see my player left comments like "I like your game."`,
+    'Do you like your subject': `Yes, I like it. Create a game or website which could bring thousands of people happiness gives me a sense of achievement. I love that feeling. It's very hot-blooded to see my players' comments like "I like your game."`,
 
     'Who teach you to be polite': `Well, like most people. My parents told me to be polite when I was a child. They told me to say "thank you" when I get help from other people.And when somebody gives me something, I should take it with my both hand to show my respect and so on. I think it is one of the great Chinese traditional cultures.`,
 
@@ -17,19 +17,19 @@ export const listening = {
 
     'In general, how do people become famous?': `Well. normally I think people become famous by attend some TV problem or TV competitions They either have great talent in doing something or their appearance is very impressive. So that would make them famous.`,
 
-    'What kinds of people become famous?': `People who have great talent in doing something or their appearance is ver impressive could make them famous. Such as my favorite celebrity Andy Lau. He is not only have great talent in acting or singing but also have a very impressive appearance.`,
+    'What kinds of people become famous?': `People who have great talent in doing something or their appearance is very impressive could make them famous. Such as my favorite celebrity Andy Lau. He is not only have great talent in acting or singing but also have a very impressive appearance.`,
 
     'What kind of fruit do you like? why?': `I like coconut. Because it is really pure natural juice. Unlike most of other juice, coconuts needn't any other process. You can drink it directly.`,
 
     'Did you like to eat fruit when you were a child?': `Yes. I did. I like fruit especially watermelon. It is really juicy and sweet. I can eat an 8-kilogram watermelon by myself when I was a child. In my memory, it is the taste of summer.`,
 
-    'Is it important to eat fruit?': `Definitely yes. Fruit, like vegetables, are nutritious and therefore are good for our health. Most fruits contain vitamins which human need that to boost our immune system. So I think eating fruit is necessary. `,
+    'Is it important to eat fruit?': `Definitely yes. Fruit, like vegetables, are nutritious and good for our health. Most fruits contain vitamins which human need that to boost our immune system. So I think eating fruit is necessary. `,
 
     'How often do you buy shoes?': `I buy shoes about once a year. Because I just need one or two pairs of shoes in my daily life. The only reason I need to buy new shoes is that the older one is broken.`,
 
     'Have you ever bought shoes online?': `Yes of course I have. Shopping online is a quick and easy way to buy what I want. On some special days, online store always has a lot of discount. Such as last double 11 shopping festival I bought two pairs of shoes. All of them have beautiful appearance and price.`,
 
-    'Do you know anyone who likes to buy a lot of shoes?': `Yes, my girlfriend is a really shoes collector. She buys shoes almost every week. But about half of her shoes, she just wore once or twice.`,
+    'Do you know anyone who likes to buy a lot of shoes?': `Yes, my girlfriend is a really shoes collector. She buys shoes almost every week. But about half of her shoes just being wore once or twice.`,
 
     'What\'s is your favorite type of shoes?': `Well, my favorite type of shoes is the sandal. In hot summer only sandal could make my feet feel cool. And not like other shoes sandal is really easy to putting on or putting off. It's really convenient.`,
 
@@ -49,8 +49,8 @@ export const listening = {
 
     'Do you carry different things in the morning and in the evening?': `No. I don't think there are any necessary things I have to bring them in the morning or evening. Things in my pocket are always the same.`,
 
-    'What\'s the most popular means of transportation in your hometown?': `To most popular means of transportation in my hometown is the subway. Recent years, the government of my hometown builds a lot of subway station and subway lines. So you can get everywhere by subway now in my hometown. It's really convenient and cheap. In addition, it also  could avoid traffic problem. So citizen of our hometown love to take subway when they need to get somewhere in the city`,
-    
+    'What\'s the most popular means of transportation in your hometown?': `In my hometown most people like take subway. Recent years, the government of my hometown builds a lot of subway station and subway lines. So you can get everywhere by subway now in my hometown. It's really convenient and cheap. In addition, it also  could avoid traffic problem. So citizen of our hometown love to take subway when they need to get somewhere in the city`,
+
     'Who do you live with?': `I live with my girlfriend in a apartment. Even it is not a big or luxurious apartment. But it contains everything I need in my daily life. Most importantly, there is a subway station just near my apartment. It's very convenient when I need to go somewhere in the city.`,
 
     'How long have you lived there?': `I have lived there about half year. But now, I'm preparing to find a new job. So I may move to somewhere close to my new company.`,
@@ -67,7 +67,42 @@ export const listening = {
 
     'Where did you go to school?': `I went to school when I was 6 years old in my hometown. And the primary school just close to my home.So I always have a lot of time to play with my little friends. Because I needn't worry about the traffic congestion or waste time on the way.`,
 
-    'Tell me something about the school?': `My primary school is quite special. Because the school is just open for the child who's parent is working for China Navy department. So When I was a child I have some special opportunities to saw the navy ships or navy guns. It's a really unusual experience.So when I was that age, my dream is to be a Navy weapon expert.`,
+    'Tell me something about the school?': `My primary school is quite special. Because the school is just open for the child who's parent are working for the China Navy department. So When I was a child I have some special opportunities to saw the navy ships or navy guns. It's a really unusual experience.So when I was that age, my dream is to be a Navy weapon expert.`,
+
+    'Do you know your neighbours?': `Oh, no, totally not. Because I just come to this city a few years ago. It's a totally new environment to me. In addition, most of my neighbors are local people. They use a kind of local language to communication which I can't understand. So I always try to avoid talking to my neighbours directly.`
+
+    'Hot often do you see your neighbours': `I rarely see them. Cause I have to get up seven o'clock every morning and normally come home after 10 o'clock. That means I don't have much time to meet or visit them even I want`,
+
+    'Do you like to spend time with teenagers': `Yes of course. Teenagers are full of vitality and new ideas. My brother is 14 years old, and I like to play with him. He could always find some unusual ways to solve a problem even sometimes it doesn't work. But it could bring me inspiration.`,
+
+    'Do you know anything about the kind of fashion that teenagers like ?': `I don't think I can give you an accurate answer. I'm 25 years old and I have to say there is a gap between me and the teenagers. But I do know some kind of fashion that teenagers like. For example, some of them are Japenese comic lover. A virtual singer called Miku from a Japanese comic opens a concert in Shanghai last year. That really shocked me.`,
+
+    'What are the best things of being a teenager?': `I think the best thing is that they don't need to take too much responsibility. Besides studying, they don't have to worry about things. Their parents give them pocket money for social activities like hanging out witthh friends after school.`,
+
+    'How do teenagers entertain themselves?': `There so many things for them to do, like going to movies, listening music, hanging out with friends. They never run out of choices.`,
+
+    'Do you like your name?': `Yes, Of course. My name is the combination of my parent's family name. And in Chinese, my name means perseverance. it always reminds me that I should never give up. So I think I really get benefit from my name.`,
+
+    'What kinds of names are popular in China?': `Names which have possitive meanings and at the same time sound beautiful often become popular.`,
+
+    'Are there many Chinese people who have the same name as you?': `Not really. Because the either family name or given name is not very common in Chinese, which made my name special. Actually. I've never met anyone who has the same name.`,
+
+    'Is there any tradition about naming babies?': `oh, I don't know much about that. But according to my observation. Most names have relation with the age of babies' birthday. For example. after 1949 many citizens name their baby with the word 'country'.`,
+
+    "who's your favorite pop star?": `Like many of my peers. My favourite pop star is Jay Zhou. He is a famous singer in Taiwan. I started listening his music when I was just a child. From his songs. The first time I realized the beauty of Chinese language. In addition, he not only spread the love between lovers but also write songs for the mother‘s love and the beauty of traditional Chinese culture. So I think he is a remarkable pop star.`,
+
+    'Do you like to go to concerts?': `Yes, I like to. At concerts, I can listen to my favourite singers singing live and I can meet many other fans that I can become friends with.`,
+
+    'How often do you meet with your family?': `I meet my family about twice a year. Since I working in this city and my parent live in my hometown which is far away from here. I really miss them sometimes. Because I don't have any family or good frends in Hangzhou.`,
+
+    'How do you spend the time with your family? Do you want to live with your family in the future?': `At home, we watch TV and have meals together. But honestly, I don't want to live with them all the time. Becasue we have different lifestyle and living habit. So live with them will make me feel uncomfortable.`,
+
+    'How has your family influenced you?': `My grandfather is a navy general. He is a very self-disciplined man. Although he has retired decades years. But he keeps getting up at six AM and sleeps at ten pm. And also, he never makes himself become slack. All these deeds have influenced me to be a better person.`,
+
+    'Do you remember your friends in primary school? why?': `Yes, of course. I remember most of them. Because it's easier to make real friends when we are young and simple. we always help and support each other for no requite. So I still remember those cure guys.`,
+
+    'What do you do with friends?': `Most times, I play video games with my friends. Since I don't live with them in the same city. So I can only meet them online and in the games. When we play the online game together, I truly feel like they are just beside me. That's really helpful when I feel lonely.`,
+
 }
 
 export const writing = {
